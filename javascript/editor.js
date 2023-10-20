@@ -1,1 +1,5 @@
-var pageEditor = {"setting":{}, "pageAnnos":[[],[{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.624375","y":"0.814698","width":"0.172133","height":"0.014558"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"tel:0928-123-247","linkTarget":"_blank"}},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.626663","y":"0.841817","width":"0.171528","height":"0.014483"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"tel:0986-032-275","linkTarget":"_blank"}},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.626663","y":"0.868551","width":"0.171818","height":"0.014558"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"tel:0932-309-861","linkTarget":"_blank"}},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.624375","y":"0.895361","width":"0.157131","height":"0.014558"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"tel:03-977-1166","linkTarget":"_blank"}}],[],[],[],[],[],[],[],[],[],[],[],[]]};
+﻿var pageEditor = {
+    "setting": {},
+    "pageAnnos": [[]]
+};
+//"pageAnnos": [[]] 如果这里不是这样的结构会影响到语音助手的设置
